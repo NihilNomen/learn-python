@@ -1,4 +1,4 @@
-#exercise 20
+#exercise 20, use with test.txt
 from sys import argv
 
 script, input_file = argv
